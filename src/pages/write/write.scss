@@ -1,0 +1,22 @@
+.write-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.write {
+  
+
+  textarea {
+    width: 500px;
+    height: 600px;
+    border: 1px solid black;
+  }
+}
+
+.preview {
+  width: 500px;
+  height: 600px;
+  border: 1px solid black;
+}
